@@ -6,6 +6,21 @@
 	i{
 		color: black;
 	}
+
+    .sicon-facebook, .sicon-twitter, .sicon-insta{
+          color: black; 
+    }
+    .sicon-facebook:hover{
+        color: #3b5998;
+    }
+    .sicon-twitter:hover{
+        color: #00aced;
+    }
+    .sicon-insta:hover{
+        color:  #fb3958;
+    }
+
+    
 	#map{
 
 		position: relative;

@@ -171,6 +171,23 @@ height: 80%;
    font-family: 'Nunito', sans-serif;
     }
 
+    .nav-pills li{
+  float:none;
+  display: inline-block;
+  zoom:1;
+}
+.nav-pills{
+  text-align: center;
+}
+#thinks{
+  text-align: center;
+}
+#thinks h3{
+  margin-top:10px;
+  font-size:44px;
+ font-family: 'Lato', sans-serif;
+}
+
     #team h3{
     margin-top: 5%;
     font-size:44px;
